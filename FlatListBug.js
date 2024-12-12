@@ -1,0 +1,1 @@
+This React Native bug occurs when using the `FlatList` component with a large dataset and complex item rendering.  The performance becomes extremely sluggish, causing significant UI freezes and jank. This is often due to inefficient rendering of list items or excessive re-renders.
